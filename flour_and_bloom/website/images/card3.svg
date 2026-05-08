@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" preserveAspectRatio="xMidYMid slice">
+  <rect width="600" height="400" fill="#f4d9d0"/>
+  <g>
+    <ellipse cx="300" cy="360" rx="180" ry="20" fill="#3d2510" opacity="0.15"/>
+    <rect x="160" y="300" width="280" height="50" fill="#faf3e7"/>
+    <ellipse cx="300" cy="300" rx="140" ry="18" fill="#faf3e7"/>
+    <ellipse cx="300" cy="350" rx="140" ry="18" fill="#e8d0c4"/>
+    <rect x="170" y="240" width="260" height="40" fill="#c97e3e"/>
+    <ellipse cx="300" cy="240" rx="130" ry="16" fill="#d49856"/>
+    <rect x="160" y="190" width="280" height="50" fill="#faf3e7"/>
+    <ellipse cx="300" cy="190" rx="140" ry="18" fill="#fffaf0"/>
+    <rect x="170" y="130" width="260" height="40" fill="#c97e3e"/>
+    <ellipse cx="300" cy="130" rx="130" ry="16" fill="#d49856"/>
+    <rect x="160" y="80" width="280" height="50" fill="#faf3e7"/>
+    <ellipse cx="300" cy="80" rx="140" ry="18" fill="#fffaf0"/>
+    <path d="M 160 80 Q 175 70 190 80 Q 205 70 220 80 Q 235 70 250 80 Q 265 70 280 80 Q 295 70 310 80 Q 325 70 340 80 Q 355 70 370 80 Q 385 70 400 80 Q 415 70 430 80 Q 440 75 440 80" fill="#fffaf0"/>
+    <circle cx="220" cy="60" r="5" fill="#b5651d"/>
+    <circle cx="280" cy="55" r="5" fill="#b5651d"/>
+    <circle cx="340" cy="60" r="5" fill="#b5651d"/>
+    <circle cx="380" cy="55" r="4" fill="#b5651d"/>
+    <circle cx="240" cy="65" r="3" fill="#b5651d"/>
+    <circle cx="320" cy="65" r="3" fill="#b5651d"/>
+  </g>
+</svg>
